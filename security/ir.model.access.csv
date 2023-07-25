@@ -1,0 +1,8 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_hrx_payment_method_users,delivery.carrier.hrx.service,model_hrx_payment_method,,1,0,0,0
+
+access_hrx_product_type_users,delivery.carrier.hrx.product.type,model_hrx_product_type,,1,0,0,0
+
+access_hrx_product_group_users,delivery.carrier.hrx.product.group,model_hrx_product_group,,1,0,0,0
+
+access_hrx_service_users,delivery.carrier.hrx.service,model_hrx_service,,1,0,0,0
